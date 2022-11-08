@@ -1,2 +1,2 @@
-# About-Me-only-html
-My first page (only html)
+# AboutMe
+My first page (html only)
